@@ -1,4 +1,0 @@
-<!--index.wxml-->
-<view class="container">
-  <image src='../../static/images/wxercode.png'></image>
-</view>

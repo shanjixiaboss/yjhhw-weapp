@@ -1,3 +1,2 @@
-# yjhhw-weapp
-yjhhw.com weixin mini program
-todo develop
+使用uni-app开发一些颜集花卉相关的应用，包括小程序、安卓、h5
+具体功能还未开始，需要设计下
